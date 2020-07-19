@@ -1,4 +1,4 @@
-# Image-Fillter
+# Image-Filter
 Usage: python3 filter.py [flag] input_image output_image
 flag is -e : edges
         -r : reflection
